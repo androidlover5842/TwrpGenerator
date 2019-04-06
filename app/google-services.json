@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "321496677143",
+    "firebase_url": "https://twrpgenerator.firebaseio.com",
+    "project_id": "twrpgenerator",
+    "storage_bucket": "twrpgenerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321496677143:android:f7b460f8f7a36cfa",
+        "android_client_info": {
+          "package_name": "com.androidlover5842.twrpgenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMSnfw-c0SGtUGPCbHV_QMmQBvLWnQ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321496677143-h5afl6vpmev921c8dmf2dnnspvqn1uv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
